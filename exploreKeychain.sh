@@ -33,4 +33,4 @@ security find-internet-password -a student@mail.com -s www.mail.com -g
 #6. Export all keychain items
 security export -k $KEYCHAINNAME -P passcode -f pkcs12 -o ~/Desktop/secFile.p12
 
-
+#View other scripts for security related changes.

@@ -1,0 +1,6 @@
+Team ID
+BundleIdentifier
+Allowed
+CompanyName
+CompanyName2
+Flags

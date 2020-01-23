@@ -49,4 +49,7 @@ sudo ./generateSecuirtyReport.sh ladmin ladminpwd
 
 To build the csvparser:
 1. Simply open the Xcode project. 
-2. Press the key 
+2. Press the keys: **⌘B** to build the project.
+3. From the left hand side project navigator select the built executable and control click to get the secondary menu.
+4. Select _*Show in Finder*_ to get the location of the executable in Finder.
+5. Copy it to the location you desire and modufy the script to use the correct path.

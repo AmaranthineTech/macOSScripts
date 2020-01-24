@@ -18,8 +18,8 @@
 ####################################################################################################
 ####################################################################################################
 # VALUE FORMAT FOR THE ARGUMENTS
-# USERNAME          : All lower case, one word
-# PASSWORD          : Should be a single word. This is the new password value
+# USERNAME          : All lower case, one word. This is the administrator user account username.
+# PASSWORD          : Should be a single word. This is the administrator user account password.
 #
 # SAMPLE USAGE
 # sudo sh ./configureFileVault.sh <USERNAME> <PASSWORD>

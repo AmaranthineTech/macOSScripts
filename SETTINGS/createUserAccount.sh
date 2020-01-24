@@ -20,8 +20,8 @@
 ####################################################################################################
 ####################################################################################################
 # VALUE FORMAT FOR THE ARGUMENTS
-# USERNAME          : All lower case, one word
-# PASSWORD          : Should be a single word
+# USERNAME          : All lower case, one word.
+# PASSWORD          : Should be a single word. 
 # ACCOUNT TYPE      : One Word, "admin", "standard"
 # REAL NAME         : Can be more than one word. If it is more than one word then it should be in quotes.
 # PRIMARY GROUP ID  : Just a number. (80 -> admin, 20 -? user)

@@ -19,9 +19,6 @@
 # VALUE FORMAT FOR THE ARGUMENTS
 # USERNAME          : All lower case, one word. This is the administrator user account username.
 # PASSWORD          : Should be a single word. This is the administrator user account password.
-# ACCOUNT TYPE      : One Word, "admin", "standard"
-# REAL NAME         : Can be more than one word. If it is more than one word then it should be in quotes.
-# PRIMARY GROUP ID  : Just a number. (80 -> admin, 20 -? user)
 #
 # SAMPLE USAGE
 # ./generateSecurityReport.sh <USERNAME> <PASSWORD>

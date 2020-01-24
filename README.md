@@ -37,3 +37,19 @@ Template: `sudo sh ./configureFileVault.sh <USERNAME> <PASSWORD>`
 ```Shell
 sudo sh ./configureFileVault.sh ladmin ladminpwd
 ```
+
+## Security Report
+This script generates a report of some of the security settings for the device. It also uses a Swift based parser to parse the text. 
+
+### Running the script
+```Shel
+sudo ./generateSecuirtyReport.sh <USERNAME> <PASSWORD>
+sudo ./generateSecuirtyReport.sh ladmin ladminpwd
+```
+
+To build the csvparser:
+1. Simply open the Xcode project. 
+2. Press the keys: **⌘B** to build the project.
+3. From the left hand side project navigator select the built executable and control click to get the secondary menu.
+4. Select _*Show in Finder*_ to get the location of the executable in Finder.
+5. Copy it to the location you desire and modufy the script to use the correct path.

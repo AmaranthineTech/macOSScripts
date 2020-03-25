@@ -1,7 +1,10 @@
 # macOSScripts
 The scripts can be used to configure different settings in macOS. The can also be used to perform different tasks.
 
-**The scripts provided here will have to be modified to suit your needs. A lot of assumptions have been made especially on availability of resources and folder locations. _ _Please test it out before using it._ _**
+**The scripts provided here will have to be modified to suit your needs. A lot of assumptions have been made especially on availability of resources and folder locations.  _Please test it out before using it._**
+
+# Disclaimer
+_The Software Is Provided "As Is", Without Warranty Of Any Kind, Express Or Implied, Including But Not Limited To The Warranties Of Merchantability, Fitness For A Particular Purpose And Noninfringement. In No Event Shall The Authors Or Copyright Holders Be Liable For Any Claim, Damages Or Other Liability, Whether In An Action Of Contract, Tort Or Otherwise, Arising From, Out Of Or In Connection With The Software Or The Use Or Other Dealings In The Software._
 
 ## User Account Creation
 This script walks through the process of creating a user account.

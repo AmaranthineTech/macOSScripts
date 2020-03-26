@@ -4,7 +4,7 @@
 #Date    : 26th March 2020
 #Contact : arun@amaranthine.co.in
 #Website : https://www.amaranthine.in
-#Scope   : This script configures the Disk images.
+#Scope   : This script configures the Energy Preferences.
 #Arguments
 
 #NOTE       : This script must be run as sudo.

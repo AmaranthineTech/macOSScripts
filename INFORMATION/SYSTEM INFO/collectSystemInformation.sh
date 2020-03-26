@@ -35,7 +35,7 @@ then
     echo "$(date "+DATE: %Y-%m-%d%TIME: %H:%M:%S") File exists" >> $LOGFILE
 else
     cd /Users/Shared/
-    touch configureContentCaching.log
+    touch collectSystemInformation.log
     echo "$(date "+DATE: %Y-%m-%d%TIME: %H:%M:%S") Created Folder" >> $LOGFILE
 fi
 

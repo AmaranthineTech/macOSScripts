@@ -104,3 +104,13 @@ OR
 ```Shell
 sudo ./configureDiskImages.sh ladmin ladminpwd 100 "Data"
 ```
+
+## Information
+
+### Generating System Information Reports
+This script generates multiple reports detailing information about the system.
+
+#### Running the Script
+```Shell
+./collectionSystemInformation.sh
+```

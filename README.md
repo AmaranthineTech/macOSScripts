@@ -26,6 +26,22 @@ sudo sh ./configureNetwork.sh <LOCATION> <INTERFACE NAME> <INTERFACE TYPE> <IP A
 sudo sh ./configureNetwork.sh Classroom Classroom Wi-Fi 192.168.1.100 255.255.0.0 192.168.1.1 192.168.1.1 amaranthine.in
 ```
 
+### Energy Settings Configuration
+This configures energy settings and generates a report for the same.
+
+#### Running the Script
+```Shell
+sudo ./configureEnergyManagement.sh
+```
+
+### Keep Awake
+This script keeps the computer running till the caffeinate process is killed.
+
+#### Running the script
+```Shell
+./keepAwake.sh
+```
+
 ## Security
 ### Keychain
 

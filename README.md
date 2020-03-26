@@ -91,3 +91,16 @@ Template: `sudo ./configureContentCaching.sh <USERNAME> <PASSWORD>`
 ```Shell
 sudo ./configureContentCaching.sh ladmin ladminpwd
 ```
+
+### Creating Disk Images
+This script creates a disk image. 
+
+#### Running the script
+Template: `sudo ./configureDiskImages.sh <USERNAME> <PASSWORD> <SIZE> <NAME> <PASSWORD>`
+```Shell
+sudo ./configureDiskImages.sh ladmin ladminpwd 100 "Data" "pwd"
+```
+OR
+```Shell
+sudo ./configureDiskImages.sh ladmin ladminpwd 100 "Data"
+```

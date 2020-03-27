@@ -64,6 +64,18 @@ https://github.com/AmaranthineTech/macOSScripts/blob/master/SETTINGS/ENERGY/keep
 
 
 
+### Miscellaneous Commands
+A collection of different commands. 
+
+#### Running the script
+While you can run the script in one go, it might be a good idea to try out the different commands one by one.
+```Shell
+./configureSettings.sh
+```
+
+#### Script
+https://github.com/AmaranthineTech/macOSScripts/blob/master/SETTINGS/Miscellaneous/configureSettings.sh
+
 ---
 ## Security
 

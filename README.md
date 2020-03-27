@@ -6,6 +6,9 @@ The scripts can be used to configure different settings in macOS. The can also b
 # Disclaimer
 _The Software Is Provided "As Is", Without Warranty Of Any Kind, Express Or Implied, Including But Not Limited To The Warranties Of Merchantability, Fitness For A Particular Purpose And Noninfringement. In No Event Shall The Authors Or Copyright Holders Be Liable For Any Claim, Damages Or Other Liability, Whether In An Action Of Contract, Tort Or Otherwise, Arising From, Out Of Or In Connection With The Software Or The Use Or Other Dealings In The Software._
 
+# Article
+https://arunpatwardhan.com/2020/03/27/useful-scripts-for-macos/
+
 ---
 ## User Accounts & Settings
 

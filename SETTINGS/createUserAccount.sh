@@ -27,8 +27,8 @@
 # PRIMARY GROUP ID  : Just a number. (80 -> admin, 20 -? user)
 #
 # SAMPLE USAGE
-# sudo sh ./createUserAccount.sh -username <USERNAME> -password <PASSWORD> -accountType <ACCOUNTTYPE> -realName <REALNAME> -primaryGroupID <PRIMARYGROUPID>
-# sudo sh ./createUserAccount.sh -username ladmin -password ladminpwd -accountType admin -realName "Local Admin" -primaryGroupID 80
+# sudo sh ./createUserAccount.sh  <USERNAME>  <PASSWORD>  <ACCOUNTTYPE>  <REALNAME>  <PRIMARYGROUPID>
+# sudo sh ./createUserAccount.sh  ladmin  ladminpwd  admin  "Local Admin"  80
 ####################################################################################################
 ####################################################################################################
 

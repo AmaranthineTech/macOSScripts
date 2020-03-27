@@ -209,3 +209,19 @@ This script generates multiple reports detailing information about the system.
 
 #### Scripts
 https://github.com/AmaranthineTech/macOSScripts/blob/master/INFORMATION/SYSTEM%20INFO/collectSystemInformation.sh
+
+
+
+---
+## File System
+
+### Collect Disk Informtation
+This script collects information about different aspects of the list.
+
+#### Running the script
+```Shell
+sudo ./collectDiskInformation.sh
+```
+
+#### Scripts
+https://github.com/AmaranthineTech/macOSScripts/blob/master/File%20System/collectDiskInformation.sh
